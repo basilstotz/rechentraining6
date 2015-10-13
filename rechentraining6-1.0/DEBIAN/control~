@@ -1,8 +1,0 @@
-Package: lehreroffice
-Section: unknown
-Priority: optional
-Version: 1.0-1
-Maintainer: You <whatever@contact.address>
-Architecture: i386
-Description: Tool for Teachers
- Tool for Teachers
