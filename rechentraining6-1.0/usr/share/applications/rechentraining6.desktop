@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Rechentraining 6
+Comment=Mathematik lernen und üben
+Exec=/usr/share/bin/rechentraining6
+Terminal=false
+Type=Application
+Icon=rechentraining6.png
+Keywords="lp21 z2 z3 mathematik zahl variable"
+Categories=Application;Education;
